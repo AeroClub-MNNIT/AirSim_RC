@@ -9,7 +9,7 @@ Android App to control the Airsim Drone running on Remote System.
 - Download and unzip it https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing/releases/download/v0.3.0/AirSim.zip. => folder name Airsim
 - Download https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing/releases/download/v0.3.0/settings.json and replace with your `C:\Users\........\Documents\AirSim\setting.json` or if not exists make a folder and place it.
 - Download the map : https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing/releases/download/v0.3.0/Soccer_Field.pak and place it in Airsim/AirSimExe/Content/Paks/.
-- Download the Android APK : https://github.com/AmitGupta7580/AirSim_RC/blob/master/app-debug.apk
+- Download the Android APK : https://github.com/AeroClub-MNNIT/AirSim_RC/blob/master/app-debug.apk
 - Download the Python server : https://gist.github.com/AmitGupta7580/fe7612cea70edee78dd4fb9716db683f
 
 ### Running
@@ -28,9 +28,9 @@ Android App to control the Airsim Drone running on Remote System.
 
 ## Screenshots: 
 <p align="center">
-  <img src="https://github.com/AmitGupta7580/AirSim_RC/blob/master/img/rc_interface.jpeg" width=700 height=300>
+  <img src="https://github.com/AeroClub-MNNIT/AirSim_RC/blob/master/img/rc_interface.jpeg" width=700 height=300>
 </p>
 <p align="left">
-  <img src="https://github.com/AmitGupta7580/AirSim_RC/blob/master/img/main.jpeg" width=380 height=200>
-  <img src="https://github.com/AmitGupta7580/AirSim_RC/blob/master/img/connnection.jpeg" width=380 height=200>
+  <img src="https://github.com/AeroClub-MNNIT/AirSim_RC/blob/master/img/main.jpeg" width=380 height=200>
+  <img src="https://github.com/AeroClub-MNNIT/AirSim_RC/blob/master/img/connnection.jpeg" width=380 height=200>
 </p>
